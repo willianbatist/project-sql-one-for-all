@@ -112,7 +112,7 @@ VALUES
   (11, 'Celebration of more', 4, 146),
   (12, 'Rock his everything', 4, 223),
   (13, 'Home forever', 4, 231),
-  (14, 'Diamond power', 4, 241),
+  (14, 'Diamond Power', 4, 241),
   (15, 'Lets be silly', 4, 132),
   (16, 'Thang of thunder', 5, 240),
   (17, 'Words of her life', 5, 185),
